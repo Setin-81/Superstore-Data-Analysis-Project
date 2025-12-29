@@ -59,3 +59,7 @@ To run this project locally, make sure you have Python installed along with the 
 pip install pandas matplotlib seaborn
 
 ---
+## 📊 Power BI Dashboard
+![Superstore Dashboard](Sale-img.png)
+
+
